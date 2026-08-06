@@ -56,6 +56,7 @@ When evaluating solutions in interviews, we aim to optimize both Time and Space 
 | Company | Problem Name | Difficulty | Language | Solution |
 | :--- | :--- | :---: | :---: | :---: |
 | **Amazon/Google/Microsoft** | [LC 3731:Find Missing Elements](https://leetcode.com/problems/find-missing-elements/description/?envType=daily-question&envId=2026-08-04) | Easy | C++ | [✅ Code](./solutions/Find_Missing_Elements.cpp) |
+| **Amazon/Google/Microsoft/Meta/Apple/Uber/Bloomberg** | [LC 75: Sort Colors in 0s,1s and 2s](https://leetcode.com/problems/sort-colors/) | Medium | C++ | [✅ Code](./solutions/Sort_Colors.cpp) |
 ---
 
 ## 📂 Repository Structure
