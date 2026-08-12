@@ -58,7 +58,8 @@ When evaluating solutions in interviews, we aim to optimize both Time and Space 
 | **Amazon/Google/Microsoft** | [LC 3731:Find Missing Elements](https://leetcode.com/problems/find-missing-elements/description/?envType=daily-question&envId=2026-08-04) | Easy | C++ | [✅ Code](./solutions/Find_Missing_Elements.cpp) |
 | **Amazon/Google/Microsoft/Meta/Apple/Uber/Bloomberg** | [LC 75: Sort Colors in 0s,1s and 2s](https://leetcode.com/problems/sort-colors/) | Medium | C++ | [✅ Code](./solutions/Sort_Colors.cpp) |
 | **Amazon/Google/Microsoft/Meta/Apple/Uber/GoldmannSaches** | [LC 31: Next Permutation](https://leetcode.com/problems/next-permutation/) | Medium | C++ | [✅ Code](./solutions/Next_Permutataion.cpp) |
-| **Microsoft** | [LC 567: Permutation In String](https://leetcode.com/problems/permutation-in-string/description/) | Medium | C++ | [✅ Code](./solutions/Permutataion_In_String.cpp) |
+| **Microsoft** | [LC 567: Permutation in a String](https://leetcode.com/problems/permutation-in-string/) | Medium | C++ | [✅ Code](./solutions/Permutataion_In_String.cpp) |
+| **Amazon/Microsoft/Google/Apple/Uber/Bloomberg** | [LC 48: Rotate Image](https://leetcode.com/problems/rotate-image/) | Medium | C++ | [✅ Code](./solutions/Rotate_Image.cpp) |
 
 ---
 
