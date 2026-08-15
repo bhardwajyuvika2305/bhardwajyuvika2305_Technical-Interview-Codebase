@@ -60,6 +60,7 @@ When evaluating solutions in interviews, we aim to optimize both Time and Space 
 | **Amazon/Google/Microsoft/Meta/Apple/Uber/GoldmannSaches** | [LC 31: Next Permutation](https://leetcode.com/problems/next-permutation/) | Medium | C++ | [✅ Code](./solutions/Next_Permutataion.cpp) |
 | **Microsoft** | [LC 567: Permutation in a String](https://leetcode.com/problems/permutation-in-string/) | Medium | C++ | [✅ Code](./solutions/Permutataion_In_String.cpp) |
 | **Amazon/Microsoft/Google/Apple/Uber/Bloomberg** | [LC 48: Rotate Image](https://leetcode.com/problems/rotate-image/) | Medium | C++ | [✅ Code](./solutions/Rotate_Image.cpp) |
+| **Microsoft/Adobe/Samsung/MakeMyTrip/J.P.Morgan/PayPal/PayTM** | [LC 151: Reverse Words In String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | C++ | [✅ Code](./solutions/Reverse_Words_In_String.cpp) |
 
 ---
 
