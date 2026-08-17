@@ -63,6 +63,7 @@ When evaluating solutions in interviews, we aim to optimize both Time and Space 
 | **Microsoft,Adobe,Samsung,MakeMyTrip,J.P.Morgan,PayPal,PayTM** | [LC 151: Reverse Words In String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | C++ | [✅ Code](./solutions/Reverse_Words_In_String.cpp) |
 | **Microsoft,Amazon,Meta,Uber,GoldmannSaches** | [LC 74: Search A 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | C++ | [✅ Code](./solutions/Search_a_2D_Matrix.cpp) |
 | **Microsoft,Amazon,Meta,Google,GoldmannSaches** | [LC 74: Search A 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) | Medium | C++ | [✅ Code](./solutions/Search_a_2D_Matrix_II.cpp) |
+| **TCS,Wipro,Infosys,Cognizant,Capgemini,Accenture** | [LC 344: Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | C++ | [✅ Code](./solutions/Reverse_String.cpp) |
 
 ---
 
