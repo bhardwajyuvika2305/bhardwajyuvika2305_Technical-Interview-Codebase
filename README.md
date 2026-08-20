@@ -65,6 +65,7 @@ When evaluating solutions in interviews, we aim to optimize both Time and Space 
 | **Microsoft,Amazon,Meta,Google,GoldmannSaches** | [LC 74: Search A 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii) | Medium | C++ | [✅ Code](./solutions/Search_a_2D_Matrix_II.cpp) |
 | **TCS,Wipro,Infosys,Cognizant,Capgemini,Accenture** | [LC 344: Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | C++ | [✅ Code](./solutions/Reverse_String.cpp) |
 | **Amazon,Meta,Google,Microsoft,Aobe,Uber,GoldmannSaches,Walmart** | [LC 560: Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | Easy | C++ | [✅ Code](./solutions/Subarray_Sum_Equals_k.cpp) |
+| **Amazon,Meta,Google,Microsoft** | [LC 47: Permutations II](https://leetcode.com/problems/permutations-ii/description/) | Medium | C++ | [✅ Code](./solutions/Permutations_II.cpp) |
 
 ---
 
