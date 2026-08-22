@@ -67,6 +67,7 @@ When evaluating solutions in interviews, we aim to optimize both Time and Space 
 | **Amazon,Meta,Google,Microsoft,Aobe,Uber,GoldmannSaches,Walmart** | [LC 560: Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | Easy | C++ | [✅ Code](./solutions/Subarray_Sum_Equals_k.cpp) |
 | **Amazon,Meta,Google,Microsoft** | [LC 47: Permutations II](https://leetcode.com/problems/permutations-ii/) | Medium | C++ | [✅ Code](./solutions/Permutations_II.cpp) |
 | **Amazon,Meta,Google,Microsoft,Apple,Goldmannsaches,ByteDance,Uber,Adobe,Oracle,Bloomberg** | [LC 51:N-Queens](https://leetcode.com/problems/n-queens/) | Hard | C++ | [✅ Code](./solutions/N_Queens.cpp) |
+| **Amazon,Meta,Google,Microsoft,Apple,Goldmannsaches,CapitonOne,Visa,Walmart,Salesforce,Uber,Adobe,Oracle,Bloomberg,Target** | [LC 49:Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | C++ | [✅ Code](./solutions/Group_Anagrams.cpp) |
 
 ---
 
