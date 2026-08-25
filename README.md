@@ -70,6 +70,7 @@ When evaluating solutions in interviews, we aim to optimize both Time and Space 
 | **Amazon,Meta,Google,Microsoft,Apple,Goldmannsaches,CapitonOne,Visa,Walmart** | [LC 49:Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | C++ | [✅ Code](./solutions/Group_Anagrams.cpp) |
 | **Amazon,Meta,Google,Microsoft** | [LC 52:N Queens II](https://leetcode.com/problems/n-queens-ii/) | Hard | C++ | [✅ Code](./solutions/N_Queens_II.cpp) |
 | **Goldmannsaches,CapitonOne,Visa,Walmart,LinkedIn** | [LC 69:SQRT(x)](https://leetcode.com/problems/sqrtx/description/) | Easy | C++ | [✅ Code](./solutions/sqrt(x).cpp) |
+| **Goldmannsaches,Amazon,Meta,Apple,Oracle** | [LC 64:Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | Medium | C++ | [✅ Code](./solutions/Minimum_Path_Sum.cpp) |
 
 ---
 
