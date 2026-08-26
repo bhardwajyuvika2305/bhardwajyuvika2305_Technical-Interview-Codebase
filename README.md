@@ -71,6 +71,7 @@ When evaluating solutions in interviews, we aim to optimize both Time and Space 
 | **Amazon,Meta,Google,Microsoft** | [LC 52:N Queens II](https://leetcode.com/problems/n-queens-ii/) | Hard | C++ | [✅ Code](./solutions/N_Queens_II.cpp) |
 | **Goldmannsaches,CapitonOne,Visa,Walmart,LinkedIn** | [LC 69:SQRT(x)](https://leetcode.com/problems/sqrtx/description/) | Easy | C++ | [✅ Code](./solutions/sqrt(x).cpp) |
 | **Goldmannsaches,Amazon,Meta,Apple,Oracle** | [LC 64:Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | Medium | C++ | [✅ Code](./solutions/Minimum_Path_Sum.cpp) |
+| **Google,Microsoft,Goldmannsaches,Amazon,Meta,Apple,Oracle** | [LC 55:Jump Game](https://leetcode.com/problems/jump-game/description/) | Medium | C++ | [✅ Code](./solutions/Jump_Game.cpp) |
 
 ---
 
