@@ -73,6 +73,7 @@ When evaluating solutions in interviews, we aim to optimize both Time and Space 
 | **Goldmannsaches,Amazon,Meta,Apple,Oracle** | [LC 64:Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | Medium | C++ | [✅ Code](./solutions/Minimum_Path_Sum.cpp) |
 | **Google,Microsoft,Goldmannsaches,Amazon,Meta,Apple,Oracle** | [LC 55:Jump Game](https://leetcode.com/problems/jump-game/) | Medium | C++ | [✅ Code](./solutions/Jump_Game.cpp) |
 | **Google,Microsoft,Adobe,Amazon,Meta,Apple** | [LC 60:Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | Hard | C++ | [✅ Code](./solutions/Permutation_Sequence.cpp) |
+| **Google,Microsoft,Adobe,Amazon,Meta,Apple,AirBnb,LinkedIn,Cortera** | [LC 68:Text Justification](https://leetcode.com/problems/text-justification/) | Hard | C++ | [✅ Code](./solutions/Text_Justification.cpp) |
 
 ---
 
