@@ -76,6 +76,7 @@ When evaluating solutions in interviews, we aim to optimize both Time and Space 
 | **Google,Microsoft,Adobe,Amazon,Meta,Apple,AirBnb,LinkedIn,Cortera** | [LC 68:Text Justification](https://leetcode.com/problems/text-justification/) | Hard | C++ | [✅ Code](./solutions/Text_Justification.cpp) |
 | **Google,Microsoft,Adobe,Amazon,Meta,Apple,LinkedIn,TripAdvisor** | [LC 65:Valid Number](https://leetcode.com/problems/valid-number/) | Hard | C++ | [✅ Code](./solutions/Valid_Number.cpp) |
 | **Google,Microsoft,Adobe,Amazon,Meta,Apple,LinkedIn,Uber,Oracle,Airbnb** | [LC 76:Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | Hard | C++ | [✅ Code](./solutions/Minimum_Window_Substring.cpp) |
+| **Google,Microsoft,Adobe,Amazon,Meta,Apple,Uber** | [LC 94:Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | Hard | C++ | [✅ Code](./solutions/Binary_Tree_Inorder_Traversal.cpp) |
 
 ---
 
