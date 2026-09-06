@@ -80,6 +80,7 @@ When evaluating solutions in interviews, we aim to optimize both Time and Space 
 | **Google,Microsoft,Adobe,Amazon,Meta,Apple,Uber** | [LC 57:Insert Interval](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Medium | C++ | [✅ Code](./solutions/Insert_Interval.cpp) |
 | **Google,Microsoft,Adobe,Amazon,Meta,Bloomberg** | [LC 86:Partition List](https://leetcode.com/problems/partition-list/) | Medium | C++ | [✅ Code](./solutions/Partition_List.cpp) |
 | **Google,Microsoft,Cisco,VMWare,Yahoo,Amazon,Meta,ByteDance** | [LC 93:Restore IP Adresses](https://leetcode.com/problems/restore-ip-addresses/) | Medium | C++ | [✅ Code](./solutions/Restore_IP_Adresses.cpp) |
+| **Google,Microsoft,Cisco,TikTok,Amazon,Meta,ByteDance** | [LC 115:Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | Hard | C++ | [✅ Code](./solutions/Distinct_Subsequences.cpp) |
 
 ---
 
