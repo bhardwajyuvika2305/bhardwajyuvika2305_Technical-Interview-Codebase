@@ -86,6 +86,7 @@ When evaluating solutions in interviews, we aim to optimize both Time and Space 
 | **Google,Amazon,Apple,Microsoft,Uber,Meta(Facebook)** | [LC 87:Scramble String](https://leetcode.com/problems/scramble-string/) | Hard | C++ | [✅ Code](./solutions/Scramble_String.cpp) |
 | **Google,Amazon,Microsoft** | [LC 835:Image Overlap](https://leetcode.com/problems/image-overlap/) | Medium | C++ | [✅ Code](./solutions/Image_Overlap.cpp) |
 | **Uber,Amazon,Bloomberg,Microsoft,Google,TikTok** | [LC 79:Word Search](https://leetcode.com/problems/word-search/) | Medium | C++ | [✅ Code](./solutions/Word_Search.cpp) |
+| **Meta,Amazon,Bloomberg,Microsoft** | [LC 73:Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | Medium | C++ | [✅ Code](./solutions/Set_Matrix_Zeroes.cpp) |
 
 ---
 
