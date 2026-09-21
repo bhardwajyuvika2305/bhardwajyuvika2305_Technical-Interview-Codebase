@@ -88,6 +88,7 @@ When evaluating solutions in interviews, we aim to optimize both Time and Space 
 | **Uber,Amazon,Bloomberg,Microsoft,Google,TikTok** | [LC 79:Word Search](https://leetcode.com/problems/word-search/) | Medium | C++ | [✅ Code](./solutions/Word_Search.cpp) |
 | **Meta,Amazon,Bloomberg,Microsoft** | [LC 73:Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | Medium | C++ | [✅ Code](./solutions/Set_Matrix_Zeroes.cpp) |
 | **Meta,Amazon,Bloomberg,Microsoft,Google** | [LC 56:Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | C++ | [✅ Code](./solutions/Merge_Intervals.cpp) |
+| **Meta,Amazon,Apple,Microsoft,Google** | [LC 85:Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | Hard | C++ | [✅ Code](./solutions/Maximal_Rectangle.cpp) |
 
 ---
 
