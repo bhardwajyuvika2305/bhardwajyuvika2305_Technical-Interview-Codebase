@@ -90,6 +90,7 @@ When evaluating solutions in interviews, we aim to optimize both Time and Space 
 | **Meta,Amazon,Bloomberg,Microsoft,Google** | [LC 56:Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | C++ | [✅ Code](./solutions/Merge_Intervals.cpp) |
 | **Meta,Amazon,Apple,Microsoft,Google** | [LC 85:Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | Hard | C++ | [✅ Code](./solutions/Maximal_Rectangle.cpp) |
 | **Bloomberg,Adobe,Uber,Oracle,Linkedln** | [LC 101:Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Easy | C++ | [✅ Code](./solutions/Maximal_Rectangle.cpp) |
+| **Bloomberg,Adobe,Uber,Meta,Amazon,Apple,Microsoft,Google** | [LC 84:Largest Rectangle In Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | Hard | C++ | [✅ Code](./solutions/Largest_Rectangle_In_Histogram.cpp) |
 
 ---
 
