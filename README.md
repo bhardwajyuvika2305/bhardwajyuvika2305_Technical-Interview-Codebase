@@ -93,6 +93,7 @@ When evaluating solutions in interviews, we aim to optimize both Time and Space 
 | **Bloomberg,Adobe,Uber,Meta,Amazon,Apple,Microsoft,Google** | [LC 84:Largest Rectangle In Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | Hard | C++ | [✅ Code](./solutions/Largest_Rectangle_In_Histogram.cpp) |
 | **Bloomberg,Adobe,Uber,Meta,Amazon,Apple,Microsoft,Google** | [LC 89:Gray Code](https://leetcode.com/problems/gray-code/) | Medium | C++ | [✅ Code](./solutions/Gray_Code.cpp) |
 | **Bloomberg,Adobe,Uber,Meta,Amazon,Apple,Microsoft,Google** | [LC 97:Interleaving String](https://leetcode.com/problems/interleaving-string/) | Medium | C++ | [✅ Code](./solutions/Interleaving_String.cpp) |
+| **Bloomberg,Adobe,Uber,Meta,Amazon,Apple,Microsoft,Google** | [LC 127:Word Ladder](https://leetcode.com/problems/word-ladder/) | Hard | C++ | [✅ Code](./solutions/Word_Ladder.cpp) |
 
 ---
 
