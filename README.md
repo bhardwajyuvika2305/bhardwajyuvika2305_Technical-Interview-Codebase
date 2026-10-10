@@ -94,7 +94,7 @@ When evaluating solutions in interviews, we aim to optimize both Time and Space 
 | **Bloomberg,Adobe,Uber,Meta,Amazon,Apple,Microsoft,Google** | [LC 89:Gray Code](https://leetcode.com/problems/gray-code/) | Medium | C++ | [✅ Code](./solutions/Gray_Code.cpp) |
 | **Bloomberg,Adobe,Uber,Meta,Amazon,Apple,Microsoft,Google** | [LC 97:Interleaving String](https://leetcode.com/problems/interleaving-string/) | Medium | C++ | [✅ Code](./solutions/Interleaving_String.cpp) |
 | **Bloomberg,Adobe,Uber,Meta,Amazon,Apple,Microsoft,Google** | [LC 127:Word Ladder](https://leetcode.com/problems/word-ladder/) | Hard | C++ | [✅ Code](./solutions/Word_Ladder.cpp) |
-| **Bloomberg,Adobe,Uber,Meta,Amazon,Apple,Microsoft,Google** | [LC 135:Candy](https://leetcode.com/problems/candy/) | Hard | C++ | [✅ Code](./solutions/Candy.cpp) |
+| **Bloomberg,Adobe,Uber,Meta,Amazon,Apple,Microsoft,Google** | [LC 135:Candy](https://leetcode.com/problems/candy/) | Hard | C++ | [✅ Code](./solutions/Candy.cpp) | **Bloomberg,Adobe,Uber,Meta,Amazon,Apple,Microsoft,Google** | [LC 140:Word Break II](https://leetcode.com/problems/word-break-ii/) | Hard | C++ | [✅ Code](./solutions/Word_Break_II.cpp) |
 
 ---
 
