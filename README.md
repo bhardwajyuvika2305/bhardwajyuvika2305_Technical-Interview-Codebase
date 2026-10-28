@@ -99,6 +99,7 @@ When evaluating solutions in interviews, we aim to optimize both Time and Space 
 |**Bloomberg,Adobe,Uber,Meta,Amazon,Apple,Microsoft,Google** | [LC 91:Decode Ways](https://leetcode.com/problems/decode-ways/) | Medium | C++ | [✅ Code](./solutions/Decode_Ways.cpp) |
 |**Bloomberg,Adobe,Uber,Meta,Amazon,Apple,Microsoft,Google** | [LC 174:Dungeon Game](https://leetcode.com/problems/dungeon-game/) | Hard | C++ | [✅ Code](./solutions/Dungeon_Game.cpp) |
 |**Bloomberg,Adobe,Uber,Meta,Amazon,Apple,Microsoft,Google** | [LC 149: Max Points On A Line](https://leetcode.com/problems/max-points-on-a-line/) | Hard | C++ | [✅ Code](./solutions/Max_Points_On_A_Line.cpp) |
+|**Bloomberg,Adobe,Uber,Meta,Amazon,Apple,Microsoft,Google** | [LC 233: Number of Digit one](https://leetcode.com/problems/max-points-on-a-line/) | Hard | C++ | [✅ Code](./solutions/Number_OF_Digit_One.cpp) |
 
 ---
 
