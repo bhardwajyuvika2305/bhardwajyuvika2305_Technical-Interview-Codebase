@@ -102,6 +102,7 @@ When evaluating solutions in interviews, we aim to optimize both Time and Space 
 |**Bloomberg,Adobe,Uber,Meta,Amazon,Apple,Microsoft,Google** | [LC 233: Number of Digit one](https://leetcode.com/problems/max-points-on-a-line/) | Hard | C++ | [✅ Code](./solutions/Number_OF_Digit_One.cpp) |
 |**Bloomberg,Adobe,Uber,Meta,Amazon,Apple,Microsoft,Google** | [LC 179: Largest Number](https://leetcode.com/problems/largest-number/) | Medium | C++ | [✅ Code](./solutions/Largest_Number.cpp) |
 |**Bloomberg,Adobe,Uber,Meta,Amazon,Apple,Microsoft,Google** | [LC 301:Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | Hard | C++ | [✅ Code](./solutions/Remove_Invalid_Parentheses.cpp) |
+|**Bloomberg,Adobe,Uber,Meta,Amazon,Apple,Microsoft,Google** | [LC 214:Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/) | Hard | C++ | [✅ Code](./solutions/Shortest_Palindrome.cpp) |
 
 ---
 
