@@ -104,6 +104,7 @@ When evaluating solutions in interviews, we aim to optimize both Time and Space 
 |**Bloomberg,Adobe,Uber,Meta,Amazon,Apple,Microsoft,Google** | [LC 301:Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | Hard | C++ | [✅ Code](./solutions/Remove_Invalid_Parentheses.cpp) |
 |**Bloomberg,Adobe,Uber,Meta,Amazon,Apple,Microsoft,Google** | [LC 224:Basic Calculator](https://leetcode.com/problems/basic-calculator/) | Hard | C++ | [✅ Code](./solutions/Basic_Calculator.cpp) |
 |**Bloomberg,Adobe,Uber,Meta,Amazon,Apple,Microsoft,Google** | [LC 174:Dungeon Game](https://leetcode.com/problems/dungeon-game/) | Hard | C++ | [✅ Code](./solutions/Dungeon_Game.cpp) |
+|**Bloomberg,Adobe,Uber,Meta,Amazon,Apple,Microsoft,Google** | [LC 207:Course Schedule](https://leetcode.com/problems/course-schedule/) | Medium | C++ | [✅ Code](./solutions/Course_Schedule.cpp) |
 
 ---
 
